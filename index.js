@@ -15,4 +15,4 @@ Just put this code in index.js and run no server.js file needed!
 
 
 
-Const mainfile = ("./OwO/main.js")
+Const mainfile = ("./owomain.js")
